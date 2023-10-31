@@ -1,0 +1,4 @@
+warning-message: '&c⚠ Warning: Your Minecraft version is older than the server''s version! Please use version %s.' # %s = Bukkit.getServerVersion()
+protocol-version: 763  # Replace this with your server's protocol version
+
+
